@@ -63,7 +63,7 @@ export default function Intro() {
   animate={{ opacity: 1, y: 0 }}
 >
   <span className="lighter" style={{ fontSize: '5mm', lineHeight: '0.5' }}>
-    Hello DAta GuyS  DAGs (data guys).👋, I'm Rama Krishna Poluru.
+    Hello DAGs (data guys) 👋, I'm Rama Krishna Poluru.
   </span>
 </motion.h1>
 
