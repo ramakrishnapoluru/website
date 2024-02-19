@@ -95,6 +95,20 @@ export const experiencesData = [
     icon: React.createElement(CgWorkAlt),
     date: "Dec 2019 - May 2020",
   }, 
+
+    {
+    title: "Junior Data Engineer",
+    location: "Fratello Innotech, Hyderabad, India",
+    description: `
+      • Enhanced billing automation for major retailers (Amazon, Flipkart, Snapdeal) using APIs, Selenium, and Airflow,
+        boosting efficiency by 40% and cutting labor by 60%.
+      • Streamlined custom ETL process for a finance client using AWS Glue and ingested in AWS RedShift.
+      • Performed auditing, inspecting and visualizing S3 server access logs using AWS Lambda, and AWS Athena.    
+    `,
+    icon: React.createElement(CgWorkAlt),
+    date: "May 2019 - Nov 2019",
+  }, 
+
 ] as const;
 
 export const projectsData = [
