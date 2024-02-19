@@ -39,9 +39,14 @@ export const experiencesData = [
     title: "Data Engineer Intern",
     location: "ECC, Burlingame, California",
     description:
-    `• Developed and automated SQL jobs, advanced SQL queries to draw insights in Power BI, resulting in a 45% reduction in time spent on manual data processing.
-    • Collaborated with Safety, Business Proposal, and Project teams; optimized data flow to enhance analytics, resulting in a 20% faster delivery of key reports and a 15% reduction in data discrepancies.
-    • Spearheading the design and development process of data warehouse, NLQ chatbot from legacy on premise database for business needs on Azure which also involved data integration, data ingestion, data modeling, security, management.`,
+    `
+    • Implemented a BI solution using Azure, including data lakes, Azure Active Directory, ADB, ADF resulting in a 0.33%
+      revenue surge and 0.4% increase in customer retention.
+    • Engineered a data warehousing solution with star and snowflake schemas, reducing data retrieval times by 30% and
+      providing actionable insights, substantially aiding services and marketing departments.
+    • Drove the strategic data architecture evaluation for the development of a NLQ chatbot across Azure Synapse,
+      Microsoft Fabric, and other services, guiding cost-effective and compatible solutions.
+    `,
     icon: React.createElement(CgWorkAlt),
     date: "May 2023 - present",
   },
