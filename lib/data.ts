@@ -40,8 +40,8 @@ export const experiencesData = [
     location: "ECC, Burlingame, California",
     description:
     `
-    • Implemented a BI solution using Azure, including data lakes, Azure Active Directory, ADB, ADF resulting in a 0.33%
-      revenue surge and 0.4% increase in customer retention.
+    • Implemented a BI solution with Azure, utilizing data lakes, Azure Active Directory, ADB, and ADF, achieving 99%
+      uptime and ensuring 96% of data integrity for reports and dashboards.
     • Engineered a data warehousing solution with star and snowflake schemas, reducing data retrieval times by 30% and
       providing actionable insights, substantially aiding services and marketing departments.
     • Drove the strategic data architecture evaluation for the development of a NLQ chatbot across Azure Synapse,
