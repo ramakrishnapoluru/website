@@ -83,7 +83,7 @@ export const experiencesData = [
   },
   {
     title: "Associate Data Engineer",
-    location: "Microsoft, Hyderabad, India.",
+    location: "MAQ Software, Hyderabad, India.",
     description: `
     • Elevated user experience by reducing report load time to 9 seconds, streamlined analytics by architecting Power BI
       reports with DAX measures for 5 KPI dashboards with RLS, and enhanced data accessibility and security.
