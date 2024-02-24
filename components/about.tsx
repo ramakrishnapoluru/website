@@ -21,10 +21,7 @@ export default function About() {
       <p className="mb-3">
        
         <span className="font-medium">  
-          
-   
-Call me the Data Wizard 🧙‍♂️, Poluru Ramakrishna at your service! Armed with my spellbook of skills in SQL 📊, Python 🐍, Spark ⚡, Azure ☁️, and AWS 🌐, I don't just navigate through data chaos; I transform it into realms of insightful, scalable solutions. 🌟 From optimizing data workflows 🔧 to reducing operational costs 💸, my magic lies in turning complex datasets into actionable strategies that drive business growth 📈. Ready to embark on a quest to harness the true power of data together? Let’s make data dance to our tune! 💫✨
-        
+Call me the Data Wizard 🧙‍♂️, Poluru Ramakrishna at your service! Armed with my spellbook of skills in SQL 📊, Python 🐍, Spark ⚡, Azure ☁️, and AWS 🌐, and many which are hidden 🔮, I don't just navigate through data chaos; I transform it into realms of insightful, scalable solutions. 🌟 From optimizing data workflows 🔧 to reducing operational costs 💸, my magic lies in turning complex datasets into actionable strategies that drive business growth 📈. Ready to embark on a quest to harness the true power of data together? Let’s make data dance to our tune! 💫
         
         
         </span>
