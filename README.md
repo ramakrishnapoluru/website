@@ -2,7 +2,7 @@
 ### Hi there, I'm Poluru Ramakrishna 👋
 
 🚀 **About Me:**
-I'm a passionate Data Engineer with a Master's in Data Science & Analytics from San Jose State University. I specialize in turning data chaos into insightful, scalable solutions with my years of experince. 📊
+I'm a passionate Data Engineer with a Master's in Data Science & Analytics from San Jose State University. I specialize in turning data chaos into insightful, scalable solutions with my knowledge, constant learnings, experince. 📊
 
 👷 **What I Do:**
 - **Data Engineering Wizardry:** From Azure to AWS, my magic lies in architecting and optimizing data pipelines that fuel analytics and decision-making. 🧙‍♂️
