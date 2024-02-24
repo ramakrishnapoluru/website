@@ -1,4 +1,4 @@
-Based on your impressive resume and data engineering expertise, here's a dynamic and 
+
 ### Hi there, I'm Poluru Ramakrishna 👋
 
 🚀 **About Me:**
