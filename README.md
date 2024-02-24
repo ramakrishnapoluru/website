@@ -1,30 +1,27 @@
-[![Watch tutorial here](https://img.youtube.com/vi/sUKptmUVIBM/0.jpg)](https://youtu.be/sUKptmUVIBM)
+Based on your impressive resume and data engineering expertise, here's a dynamic and 
+### Hi there, I'm Poluru Ramakrishna 👋
 
-# [Watch video here](https://youtu.be/sUKptmUVIBM)
+🚀 **About Me:**
+I'm a passionate Data Engineer with a Master's in Data Science & Analytics from San Jose State University. With experience spanning ECC, Microsoft, and more, I specialize in turning data chaos into insightful, scalable solutions. 📊
 
-## What you will learn
+👷 **What I Do:**
+- **Data Engineering Wizardry:** From Azure to AWS, my magic lies in architecting and optimizing data pipelines that fuel analytics and decision-making. 🧙‍♂️
+- **Big Data Enthusiast:** I thrive on handling datasets of all sizes, employing technologies like Hadoop, Spark, and Kafka to uncover hidden insights. 🌌
+- **Cloud Architect:** Leveraging cloud platforms (AWS, Azure, GCP) to build resilient, scalable data infrastructures is my forte. ☁️
+- **ETL Maestro:** Whether it's Airflow or Azure Data Factory, I design ETL processes that ensure data is not just collected, but also meaningful. 🛠️
 
-- Latest Next.js 13 features
-- Next.js App Router
-- Next.js Server Actions
-- Client & Server Components
-- TypeScript (Beginner & Intermediate)
-- Tailwind CSS
-- Context API
-- Advanced Animations with Framer Motion
-- React.Email & Resend
-- Custom React hooks
-- Fresh, modern UI design
-- Light & Dark mode
-- Responsive website
+💡 **Tech Stack:**
+- **Languages & Libraries:** Python 🐍, Java, C, Pandas, NumPy
+- **Big Data & Cloud:** Apache Spark, HDFS, AWS Glue, Azure Databricks, Snowflake ☃️
+- **Databases:** MySQL, MS SQL Server, MongoDB, Cosmos DB, Postgres
+- **Visualization & ETL:** Power BI, Tableau, SSIS, SSAS, QuickSight
 
-## Important
+🌱 **I'm currently learning:** Advanced machine learning techniques to enhance predictive analytics and data-driven strategies.
 
-If you want to be a professional developer, you have to know the fundamentals like JavaScript and CSS really well. I highly recommend you go through my [Professional JavaScript](https://bytegrad.com/courses/professional-javascript) and [Professional CSS](https://bytegrad.com/courses/professional-css) courses.
+📈 **My Goals:** To contribute to innovative projects, continuously learn, and share knowledge with the community.
 
-I'm close to releasing a complete React & Next.js course. Get on the email list to receive early-bird pricing: [link](https://email.bytegrad.com/).
+📫 **How to reach me:** 
+- Email: [poluru.ramakrishna99@gmail.com](mailto:poluru.ramakrishna99@gmail.com)
+- LinkedIn: [Insert LinkedIn Profile]
 
-## Setup
-
-1. Add RESEND_API_KEY environment variable in .env.local
-2. In the send-email.ts action file, change the "to" email to your own email
+✨ **Fun Fact:** I'm not just about data. Exploring new technologies, reading about space, and occasional gaming sessions spark my creativity and keep me inspired. 🌟
