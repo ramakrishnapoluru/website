@@ -40,12 +40,12 @@ export const experiencesData = [
     location: "ECC, Burlingame, California",
     description:
     `
-    • Implemented a BI solution with Azure, utilizing data lakes, Azure Active Directory, ADB, and ADF, achieving 99%
-      uptime and ensuring 96% of data integrity for reports and dashboards.
+     • Implemented a BI solution on Azure, utilizing ADLS, Lakehouse, Azure Active Directory, ADB, and ADF, achieving
+       99% uptime and ensuring 96% of data integrity for reports and dashboards.
     • Engineered a data warehousing solution with star and snowflake schemas, reducing data retrieval times by 30% and
       providing actionable insights, substantially aiding services and marketing departments.
-    • Drove the strategic data architecture evaluation for the development of a NLQ chatbot across Azure Synapse,
-      Microsoft Fabric, and other services, guiding cost-effective and compatible solutions.
+• Drove the strategic data architecture evaluation for the development of a NLQ chatbot across Azure Synapse,
+Microsoft Fabric, AWS, and GCP, guiding cost-effective and compatible solutions.
     `,
     icon: React.createElement(CgWorkAlt),
     date: "May 2023 - present",
@@ -55,14 +55,14 @@ export const experiencesData = [
     location: "Microsoft, Hyderabad, India.",
     description:
     `
-   • Migrated on-premises data warehouse to azure cloud-based solution, developing 40+ notebooks (PySpark, Spark
-     SQL) with zero pipeline failures and data discrepancies on the production environment on pilot deployment.
-   • Optimized execution time of 3 big data batch pipelines by 60% by employing Spark techniques, efficient coding
-     standards, and refining data transformation logic to meet business needs and minimizing data redundancy.
-   • Maintained data platform integrity and performance through daily and weekly testing, peer code reviews, and
-     continuous optimization of notebook execution times, significantly reducing Azure costs by nearly $0.2M annually.
-   • Coordinated a team of 6 and addressed cross functional teams in an Agile environment owning product backlogs
-     including requirements gathering from DataOps and demoing incremental builds (CI/ CD) on Azure DevOps.
+• Migrated on-premises business intelligence system to Azure, developing 40+ databricks notebooks (PySpark, SQL)
+with zero pipeline failures and data discrepancies on the production environment on pilot deployment.
+• Optimized execution time of 3 big data batch pipelines by 60% by employing Spark techniques, efficient coding
+standards, and refining data transformation logic to meet business needs and minimizing data redundancy.
+• Maintained data platform integrity and performance through daily and weekly testing, peer code reviews, and
+continuous optimization of notebook execution times, significantly reducing Azure costs by nearly $0.2M annually.
+• Coordinated a team of 6 and addressed cross functional teams in an Agile environment owning product backlogs by
+gathering from DataOps, Stakeholders and demoing incremental builds (CI/ CD) on Azure DevOps.
     `,
     icon: React.createElement(CgWorkAlt),
     date: "Jul 2021 - Jul 2022",
@@ -71,12 +71,12 @@ export const experiencesData = [
     title: "Data Engineer I",
     location: "Microsoft, Hyderabad, India.",
     description: `
-    • Streamlined ELT pipelines using Azure Data Factory and 150+ Azure Databricks notebooks for 5 dependent
-      systems to process upward 20M + transactional records every 6 hours to enhance business intelligence processes.
-    • Initiated a Python and Scala based validation framework to automate data validation across the data engineering
-      lifecycle, reducing error rates by 15% and saving 9 hours of daily manual effort for 6 teams.
-    • Independently enhanced data pipelines through efficient ETL process design, actively optimizing and maintaining
-      production environments for uninterrupted data flow to downstream users and systems.
+• Streamlined ELT pipelines using Azure Data Factory and 150+ Azure Databricks notebooks for 5 dependent
+systems to process upward 20M + transactional records every 6 hours to enhance business intelligence processes.
+• Initiated a Python, Scala, Spark SQL based validation framework to automate data validation across the data
+engineering lifecycle, reducing error rates by 15% and saving 9 hours of daily manual effort for 6 teams.
+• Independently enhanced data pipelines through efficient ETL process design, actively optimizing and maintaining
+production environments for uninterrupted data flow to downstream teams and systems.
   `,
     icon: React.createElement(CgWorkAlt),
     date: "Jun 2020 - Jun 2021",
@@ -85,12 +85,12 @@ export const experiencesData = [
     title: "Associate Data Engineer",
     location: "MAQ Software, Hyderabad, India.",
     description: `
-    • Elevated user experience by reducing report load time to 9 seconds, streamlined analytics by architecting Power BI
-      reports with DAX measures for 5 KPI dashboards with RLS, and enhanced data accessibility and security.
-    • Designed and executed SSIS ETL packages, cutting data processing time by 11% over multiple terabytes, and
-      utilized SSAS for advanced data analytics through multidimensional cubes, bolstering data-driven decision-making.
-    • Optimized data analysis time by developing advanced SQL queries and stored procedures, enhancing Power BI
-      report efficiency with a 45% reduction in processing and refresh times.    
+• Elevated user experience by reducing report load time to 9 seconds, streamlined analytics by architecting Power BI
+reports with DAX measures for 5 KPI dashboards with RLS, and enhanced data accessibility and security.
+• Designed and executed SSIS ETL packages, cutting data processing time by 11% over multiple terabytes, and
+utilized SSAS for advanced data analytics through multidimensional cubes, bolstering data-driven decision-making.
+• Optimized data analysis time by developing advanced SQL queries and stored procedures, enhancing Power BI
+report efficiency with a 45% reduction in processing and refresh times.  
     `,
     icon: React.createElement(CgWorkAlt),
     date: "Dec 2019 - May 2020",
