@@ -36,14 +36,14 @@ export const links = [
 
 export const experiencesData = [
   {
-    title: "Data Engineer Intern",
+    title: "Data Engineer",
     location: "ECC, Burlingame, California",
     description:
     `
-     • Implemented a BI solution on Azure, utilizing ADLS, Lakehouse, Azure Active Directory, ADB, and ADF, achieving
-       99% uptime and ensuring 96% of data integrity for reports and dashboards.
-    • Engineered a data warehousing solution with star and snowflake schemas, reducing data retrieval times by 30% and
-      providing actionable insights, substantially aiding services and marketing departments.
+ • Implemented a BI solution on Azure, utilizing ADLS, Lakehouse, Azure Active Directory, ADB, and ADF, achieving
+99% uptime and ensuring 96% of data integrity for reports and dashboards.
+• Engineered a data warehousing solution with star and snowflake schemas, reducing data retrieval times by 30% and
+providing actionable insights, substantially aiding services and marketing departments.
 • Drove the strategic data architecture evaluation for the development of a NLQ chatbot across Azure Synapse,
 Microsoft Fabric, AWS, and GCP, guiding cost-effective and compatible solutions.
     `,
@@ -62,7 +62,7 @@ standards, and refining data transformation logic to meet business needs and min
 • Maintained data platform integrity and performance through daily and weekly testing, peer code reviews, and
 continuous optimization of notebook execution times, significantly reducing Azure costs by nearly $0.2M annually.
 • Coordinated a team of 6 and addressed cross functional teams in an Agile environment owning product backlogs by
-gathering from DataOps, Stakeholders and demoing incremental builds (CI/ CD) on Azure DevOps.
+gathering requirements from DataOps, Stakeholders and demoing incremental builds (CI/ CD) on Azure DevOps.
     `,
     icon: React.createElement(CgWorkAlt),
     date: "Jul 2021 - Jul 2022",
@@ -74,7 +74,7 @@ gathering from DataOps, Stakeholders and demoing incremental builds (CI/ CD) on 
 • Streamlined ELT pipelines using Azure Data Factory and 150+ Azure Databricks notebooks for 5 dependent
 systems to process upward 20M + transactional records every 6 hours to enhance business intelligence processes.
 • Initiated a Python, Scala, Spark SQL based validation framework to automate data validation across the data
-engineering lifecycle, reducing error rates by 15% and saving 9 hours of daily manual effort for 6 teams.
+engineering lifecycle, reducing error rates by 85% and saving 9 hours of daily manual effort for 6 teams.
 • Independently enhanced data pipelines through efficient ETL process design, actively optimizing and maintaining
 production environments for uninterrupted data flow to downstream teams and systems.
   `,
@@ -85,12 +85,11 @@ production environments for uninterrupted data flow to downstream teams and syst
     title: "Associate Data Engineer",
     location: "MAQ Software, Hyderabad, India.",
     description: `
-• Elevated user experience by reducing report load time to 9 seconds, streamlined analytics by architecting Power BI
-reports with DAX measures for 5 KPI dashboards with RLS, and enhanced data accessibility and security.
+• Elevated user experience and reduced report load time to 9 seconds, streamlined analytics in Power BI along with
+RLS thereby enhancing data accessibility and security, developed DAX measures for 5 reports and dashboards.
 • Designed and executed SSIS ETL packages, cutting data processing time by 11% over multiple terabytes, and
-utilized SSAS for advanced data analytics through multidimensional cubes, bolstering data-driven decision-making.
-• Optimized data analysis time by developing advanced SQL queries and stored procedures, enhancing Power BI
-report efficiency with a 45% reduction in processing and refresh times.  
+utilized SSAS for advanced data analytics through tabular models, bolstering data-driven decision-making.
+• Optimized data analysis time by developing advanced SQL queries an
     `,
     icon: React.createElement(CgWorkAlt),
     date: "Dec 2019 - May 2020",
