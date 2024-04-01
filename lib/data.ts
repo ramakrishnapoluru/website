@@ -48,7 +48,7 @@ providing actionable insights, substantially aiding services and marketing depar
 Microsoft Fabric, AWS, and GCP, guiding cost-effective and compatible solutions.
     `,
     icon: React.createElement(CgWorkAlt),
-    date: "May 2023 - present",
+    date: "May 2023 - Feb 2024",
   },
   {
     title: "Data Engineer II",
@@ -99,10 +99,10 @@ utilized SSAS for advanced data analytics through tabular models, bolstering dat
     title: "Junior Data Engineer",
     location: "Fratello Innotech, Hyderabad, India",
     description: `
-      • Enhanced billing automation for major retailers (Amazon, Flipkart, Snapdeal) using APIs, Selenium, and Airflow,
-        boosting efficiency by 40% and cutting labor by 60%.
-      • Streamlined custom ETL process for a finance client using AWS Glue and ingested in AWS RedShift.
-      • Performed auditing, inspecting and visualizing S3 server access logs using AWS Lambda, and AWS Athena.    
+  • Integrated workflows utilizing flat files (JSON, CSV), and REST APIs. Worked on SQL tasks including DDL, DML,
+TCL, window functions, subqueries, CTEs, and focused on development of stored procedures and views.
+• Streamlined custom ETL process for a finance client using AWS Glue and ingested in AWS RedShift.
+• Performed auditing, inspecting and visualizing S3 server access logs using AWS Lambda, and AWS Athena. 
     `,
     icon: React.createElement(CgWorkAlt),
     date: "May 2019 - Nov 2019",
