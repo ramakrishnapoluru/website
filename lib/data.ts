@@ -65,7 +65,7 @@ continuous optimization of notebook execution times, significantly reducing Azur
 gathering requirements from DataOps, Stakeholders and demoing incremental builds (CI/ CD) on Azure DevOps.
     `,
     icon: React.createElement(CgWorkAlt),
-    date: "Jul 2021 - Jul 2022",
+    date: "Feb 2022 - Jul 2022",
   },
   {
     title: "Data Engineer I",
@@ -79,7 +79,7 @@ engineering lifecycle, reducing error rates by 85% and saving 9 hours of daily m
 production environments for uninterrupted data flow to downstream teams and systems.
   `,
     icon: React.createElement(CgWorkAlt),
-    date: "Jun 2020 - Jun 2021",
+    date: "Jun 2020 - Jan 2022",
   },
   {
     title: "Associate Data Engineer",
